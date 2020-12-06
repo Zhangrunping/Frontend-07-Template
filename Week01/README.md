@@ -1,1 +1,6 @@
 学习笔记
+async用来标记一个函数是异步函数
+await用来将异步的程序同步执行
+await关键字必须出现在async标记的函数中
+async的函数中没有await关键字，该怎样就怎样
+await后需要跟一个Promise实例
